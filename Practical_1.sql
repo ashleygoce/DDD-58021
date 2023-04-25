@@ -19,7 +19,7 @@ VALUES(9871234, 'HP', 'Pavilion 500-210qe', 'Intel i5-4530', 3.00, '6.0 Gbytes',
 (6541002, 'DELL', 'OptiPlex 9021', 'Intel i7-4771', 3.00, '8.0 Gbytes', '1.0 Tbytes'),
 (6541003, 'DELL', 'OptiPlex 9022', 'Intel i7-4772', 3.00, '8.0 Gbytes', '1.0 Tbytes'),
 (6541004, 'DELL', 'OptiPlex 9023', 'Intel i7-4773', 3.00, '8.0 Gbytes', '1.0 Tbytes'),
-(6541005, 'DELL', 'OptiPlex 9024', 'Intelcomputer i7-4774', 3.00, '8.0 Gbytes', '1.0 Tbytes'),
+(6541005, 'DELL', 'OptiPlex 9024', 'Intel i7-4774', 3.00, '8.0 Gbytes', '1.0 Tbytes'),
 (6541006, 'DELL', 'OptiPlex 9025', 'Intel i7-4775', 3.00, '8.0 Gbytes', '1.0 Tbytes');
 SELECT * FROM Computer WHERE Make = 'Dell';
 SELECT * FROM Computer WHERE Make = 'HP';
